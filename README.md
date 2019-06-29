@@ -1,6 +1,6 @@
 # Investigating A Hospital Dataset Using Python
 
-This dataset contains patient information from 100k + medical appointments in Brazil. The data contains a number of possible datapoints that may indicate whether a patient will show up for an appointment or not. We will use the "CRISP-DM" approach to analyze this dataset.
+This dataset contains patient information from 100k + medical appointments in Brazil. The data contains a number of possible datapoints that may indicate whether a patient will show up for an appointment or not. We will use the "[CRISP-DM](https://www.sv-europe.com/crisp-dm-methodology/)" approach to analyze this dataset.
 
 The orignal dataset can be found [here](https://www.kaggle.com/joniarroba/noshowappointments)
 
